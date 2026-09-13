@@ -181,6 +181,12 @@ The dashboard includes:
 - State filter
 - Date range filter
 
+- ![Power BI Dashboard](dashboard.png.png)
+
+### Power BI File
+
+[Download the Power BI file](https://drive.google.com/file/d/18CSVuCKyDfK5-YMZ5v6MNbOo_8yr5OSH/view?usp=sharing)
+
 The dashboard is designed around the main business questions rather than displaying only individual charts.
 
 ## Key Findings
