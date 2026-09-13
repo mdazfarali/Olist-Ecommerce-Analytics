@@ -181,7 +181,7 @@ The dashboard includes:
 - State filter
 - Date range filter
 
-- ![Power BI Dashboard](dashboard.png.png)
+- ![Power BI Dashboard](dashboard.png)
 
 ### Power BI File
 
